@@ -1,1 +1,1 @@
-this is B -fixed by user2
+and this is file B :o
